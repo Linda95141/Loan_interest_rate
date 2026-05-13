@@ -1,2 +1,2 @@
 # Loan_interest_rate
-te in thThe aim of this project is to examine and analyse the determinants influencing interest rate in consumer credit market. The available data was collected from a Lending Club, a lending peer-to-p…
+The aim of this project is to examine and analyse the determinants influencing interest rate in consumer credit market. The available data was collected from a Lending Club, a lending peer-to-Platform
